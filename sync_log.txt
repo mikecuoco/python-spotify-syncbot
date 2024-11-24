@@ -14456,3 +14456,12 @@
 	TO PLAYLIST NAME: 24/11/24 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2AGeSgWsdmKXSYa58ZiJQY
 
+2024-11-24 20:08:38,454 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 12:08PM 
+	FROM PLAYLIST NAME: daylist • serotonin 130 bpm sunday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to stutter house and dance anthem on Sundays in the morning. Here's some: 130 bpm, serotonin, happy dance, village, glastonbury festival and doof doof 
+	TOTAL SONGS TRANSFERED: 29
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/11/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2AGeSgWsdmKXSYa58ZiJQY
+
