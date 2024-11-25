@@ -14483,3 +14483,22 @@
 	TO PLAYLIST NAME: 24/11/24 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2AGeSgWsdmKXSYa58ZiJQY
 
+2024-11-25 06:13:13,937 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 10:13PM 
+	FROM PLAYLIST NAME: daylist 
+	FROM PLAYLIST DESCRIPTION: Your day in a playlist. 
+	TOTAL SONGS TRANSFERED: 45
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/11/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2AGeSgWsdmKXSYa58ZiJQY
+
+2024-11-25 06:13:19,102 - INFO - Transfer Performed 
+	LOCAL TIME: 10:13PM 
+	FROM PLAYLIST NAME: Discover Weekly 
+	FROM PLAYLIST DESCRIPTION: Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday. 
+	TOTAL SONGS TRANSFERED: 30
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: DISCOVER WEEKLY ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/1kz8uNTHyXDZjv8pkiHB3J
+	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZEVXcEyI8HVQqu5P
+
