@@ -14502,3 +14502,12 @@
 	TO PLAYLIST URL: https://open.spotify.com/playlist/1kz8uNTHyXDZjv8pkiHB3J
 	FROM PLAYLIST URL: https://open.spotify.com/playlist/37i9dQZEVXcEyI8HVQqu5P
 
+2024-11-25 10:10:07,277 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 02:10AM 
+	FROM PLAYLIST NAME: daylist • festival sound sunday 
+	FROM PLAYLIST DESCRIPTION: You listened to groovy and house on Sundays. Here's some: festival, sound, vocal, 21st century, energy and club 
+	TOTAL SONGS TRANSFERED: 50
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/11/25 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/0svTf0KFii10LnMxysv9fL
+
