@@ -14465,3 +14465,12 @@
 	TO PLAYLIST NAME: 24/11/24 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2AGeSgWsdmKXSYa58ZiJQY
 
+2024-11-25 00:42:37,713 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 04:42PM 
+	FROM PLAYLIST NAME: daylist • fancy speakeasy sunday evening 
+	FROM PLAYLIST DESCRIPTION: You listened to p-funk and modern soul on Sundays in the evening. Here's some: fancy, speakeasy, saxophone, pub, relaxing house and trumpet 
+	TOTAL SONGS TRANSFERED: 38
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/11/24 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2AGeSgWsdmKXSYa58ZiJQY
+
