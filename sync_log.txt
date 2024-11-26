@@ -14610,3 +14610,12 @@
 	TO PLAYLIST NAME: 24/11/26 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/5lAdLE3iRsRn1DEu3yHdKi
 
+2024-11-26 20:09:58,821 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 12:09PM 
+	FROM PLAYLIST NAME: daylist • festival dj afternoon 
+	FROM PLAYLIST DESCRIPTION: You listened to house and groovy in the afternoon. Here's some: festival, dj, club, ibiza, house party and funky house 
+	TOTAL SONGS TRANSFERED: 49
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/11/26 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5lAdLE3iRsRn1DEu3yHdKi
+
