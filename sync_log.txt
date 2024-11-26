@@ -14574,3 +14574,12 @@
 	TO PLAYLIST NAME: 24/11/25 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/0svTf0KFii10LnMxysv9fL
 
+2024-11-26 10:09:38,195 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 02:09AM 
+	FROM PLAYLIST NAME: daylist • jackin' house vocal monday 
+	FROM PLAYLIST DESCRIPTION: You listened to ibiza and house on Mondays. Here's some: jackin' house, vocal, funky house, ibiza, 21st century and warm 
+	TOTAL SONGS TRANSFERED: 29
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/11/26 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/5lAdLE3iRsRn1DEu3yHdKi
+
