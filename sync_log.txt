@@ -14673,3 +14673,12 @@
 	TO PLAYLIST NAME: 24/11/27 DAYLIST ARCHIVE
 	TO PLAYLIST URL: https://open.spotify.com/playlist/2tCOlaaJ7CL5ZRjXjJG46X
 
+2024-11-27 14:08:19,538 - INFO - Daylist Transfer Performed 
+	LOCAL TIME: 06:08AM 
+	FROM PLAYLIST NAME: daylist • festival dj wednesday morning 
+	FROM PLAYLIST DESCRIPTION: You listened to demure and art pop on Wednesdays in the morning. Here's some: festival, dj, crate digging, sound, club and disco 
+	TOTAL SONGS TRANSFERED: 34
+	NEW ARCHIVE CREATED: False
+	TO PLAYLIST NAME: 24/11/27 DAYLIST ARCHIVE
+	TO PLAYLIST URL: https://open.spotify.com/playlist/2tCOlaaJ7CL5ZRjXjJG46X
+
